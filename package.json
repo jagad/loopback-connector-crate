@@ -1,6 +1,6 @@
 {
   "name": "loopback-connector-crate",
-  "version": "1.6.1",
+  "version": "1.0.0",
   "description": "Loopback Crate Connector",
   "keywords": [
     "StrongLoop",

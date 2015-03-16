@@ -1,9 +1,9 @@
 ### Contributing ###
 
-Thank you for your interest in `loopback-connector-postgresql`, an open source project
-administered by StrongLoop.
+Thank you for your interest in `loopback-connector-crate`, an open source project
+administered by Jagad Studio.
 
-Contributing to `loopback-connector-postgresql` is easy. In a few simple steps:
+Contributing to `loopback-connector-crate` is easy. In a few simple steps:
 
   * Ensure that your effort is aligned with the project's roadmap by
     talking to the maintainers, especially if you are going to spend a
