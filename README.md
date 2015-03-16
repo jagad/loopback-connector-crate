@@ -5,7 +5,6 @@ The [Crate Datastore] (https://crate.io/) Connector module for for [loopback-dat
 ## Connector settings
 
 The connector can be configured using the following settings from the data source.
-* url: The URL to the database, such as 'postgres://test:mypassword@localhost:5432/dev'
 * host or hostname (default to 'localhost'): The host name or ip address of the Crate DB server
 * port (default to 4200): The port number of the Crate DB server
 * debug (default to false)
