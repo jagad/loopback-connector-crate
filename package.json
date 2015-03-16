@@ -1,7 +1,7 @@
 {
-  "name": "loopback-connector-postgresql",
+  "name": "loopback-connector-crate",
   "version": "1.6.1",
-  "description": "Loopback PostgreSQL Connector",
+  "description": "Loopback Crate Connector",
   "keywords": [
     "StrongLoop",
     "LoopBack",
@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "async": "^0.9.0",
-    "node-crate": "^1.0.20",
+    "cratejs": "^1.0.20",
     "debug": "^2.1.1",
     "loopback-connector": "1.x"
   },
@@ -28,13 +28,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/strongloop/loopback-connector-postgresql.git"
-  },
-  "license": {
-    "name": "Dual Artistic-2.0/StrongLoop",
-    "url": "https://github.com/strongloop/loopback-connector-postgresql/blob/master/LICENSE"
-  },
-  "optionalDependencies": {
-    "sl-blip": "http://blip.strongloop.com/loopback-connector-postgresql@1.6.1"
+    "url": "https://github.com/jagad/loopback-connector-crate.git"
   }
 }
