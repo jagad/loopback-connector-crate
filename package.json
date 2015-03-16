@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "async": "^0.9.0",
-    "cratejs": "^1.0.20",
+    "cratejs": "^0.2.13",
     "debug": "^2.1.1",
     "loopback-connector": "1.x"
   },
